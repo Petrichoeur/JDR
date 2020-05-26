@@ -28,7 +28,7 @@
     <script src='https://d3js.org/d3.v4.min.js'></script>
 </head>
 <body> 
-  <h1> Petrichoeur within da place ! </h1>
+  <h1> CYBERPUNK 2077 </h1>
     <script>
         const width = window.innerWidth,
             height = window.innerHeight,
@@ -83,7 +83,7 @@
             .attr('viewBox', `${-width / 2} ${-height / 2} ${width} ${height}`)
             .on('click', () => focusOn()); // Reset zoom on canvas click
 
-        d3.json('flare.json', (error, root) => {
+        d3.json('test.json', (error, root) => {
             if (error) throw error;
 
             root = d3.hierarchy(root);
