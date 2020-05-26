@@ -1,10 +1,9 @@
 <head>
     <style>
         body {
-            font-family: Sans-serif;
+            font-family: Fantasy , Arial;
             font-size: 11px; 
             background-image: url("https://images5.alphacoders.com/102/1022371.jpg");
-      
                        
         }
 
@@ -46,7 +45,7 @@
         const y = d3.scaleSqrt()
             .range([maxRadius*.1, maxRadius]);
 
-        const color = d3.scaleOrdinal(d3.schemeCategory20);
+        const color = d3.scaleOrdinal(['#EE82EE','#9400D3','#4B0082','#5F9EA0', '#000080','#2F4F4F', '#778899','#4169E1']);
 
         const partition = d3.partition();
 
