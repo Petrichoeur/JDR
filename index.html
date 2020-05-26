@@ -45,7 +45,14 @@
         const y = d3.scaleSqrt()
             .range([maxRadius*.1, maxRadius]);
 
-        const color = d3.scaleOrdinal(['#EE82EE','#9400D3','#4B0082','#5F9EA0', '#000080','#2F4F4F', '#778899','#4169E1']);
+        const color = d3.scaleOrdinal(['#003f5c',
+                                        '#005a80',
+                                        '#00779a',
+                                        '#0094a6',
+                                        '#00b1a2',
+                                        '#00cd8d',
+                                        '#00e768',
+                                        '#2dff24']);
 
         const partition = d3.partition();
 
