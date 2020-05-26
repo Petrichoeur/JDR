@@ -1,0 +1,43 @@
+{ "name":"Cyberpunk 2077" , 
+  "children":[  
+     {
+      "name" :"Petrichoeur", 
+        "children": [ 
+        {
+          "name":"Attributs primaires" , 
+              "children": [ 
+
+              {"name": "Force", "size": 3938},
+              {"name": "Dextérité", "size": 3812},
+              {"name": "Concentration", "size": 6714},
+              {"name": "Intelligence", "size": 743},
+              {"name": "Perception", "size": 3938},
+              {"name": "Charisme", "size": 3812},
+              {"name": "Vie", "size": 6714},
+              {"name": "Intelligence", "size": 743}
+
+
+                      ]} , 
+                      
+              { name :"Attributs secondaires" ; 
+                            "children": [ 
+                             {"name": "Argent", "size": 3938},
+                              {"name": "Mana/Psyché", "size": 3812},
+                              {"name": "Point de chances", "size": 6714},
+                              {"name": "Point d'endurances", "size": 743},
+                              {"name": "Perception", "size": 3938},
+                              {"name": "Charisme", "size": 3812},
+                              {"name": "Vie", "size": 6714},
+                              {"name": "Intelligence", "size": 743}
+                            
+                       ]} , 
+                      
+              { name :"Inventaire et Prothèse" ; 
+                            "children": [ 
+                             {"name": "Glock G33 AV ", "size": 3938},
+                              {"name": "Régulateur d'empathie", "size": 3812},
+                            
+                       ]}   ]}]}
+
+                       
+                                        
