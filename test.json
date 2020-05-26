@@ -19,7 +19,7 @@
 
                       ]} , 
                       
-              { name :"Attributs secondaires" ; 
+              { "name" :"Attributs secondaires" ,
                             "children": [ 
                              {"name": "Argent", "size": 3938},
                               {"name": "Mana/Psyché", "size": 3812},
@@ -32,7 +32,7 @@
                             
                        ]} , 
                       
-              { name :"Inventaire et Prothèse" ; 
+              { "name" :"Inventaire et Prothèse" , 
                             "children": [ 
                              {"name": "Glock G33 AV ", "size": 3938},
                               {"name": "Régulateur d'empathie", "size": 3812},
