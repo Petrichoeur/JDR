@@ -1,0 +1,397 @@
+{
+  "name": "Cyberpunk 2077",
+  "children": [
+    {
+      "name": "Petrichoeur",
+      "children": [
+        {
+          "name": "Attributs primaires",
+          "children": [
+            {
+              "name": "Force: 11",
+              "size": 11
+            },
+            {
+              "name": "Dextérité: 11",
+              "size": 11
+            },
+            {
+              "name": "Concentration: 11",
+              "size": 11
+            },
+            {
+              "name": "Intelligence: 11",
+              "size": 11
+            },
+            {
+              "name": "Perception: 11",
+              "size": 11
+            },
+            {
+              "name": "Charisme: 15",
+              "size": 11
+            },
+            {
+              "name": "Vie: 7",
+              "size": 7
+            }
+          ]
+        },
+        {
+          "name": "Attributs secondaires",
+          "children": [
+            {
+              "name": "Argent : 29",
+              "size": 29
+            },
+            {
+              "name": "Mana/Psyché : 7",
+              "size": 7
+            },
+            {
+              "name": "Point de chances : 1",
+              "size": 1
+            },
+            {
+              "name": "Point d'endurances : 5",
+              "size": 5
+            }
+          ]
+        },
+        {
+          "name": "Inventaire et Prothèse",
+          "children": [
+            {
+              "name": "Armes",
+              "children": [
+                {
+                  "name": "Glock G33 AV ",
+                  "size": 1
+                }
+              ]
+            },
+            {
+              "name": "Armure",
+              "children": [
+                {
+                  "name": "Veste en cuir",
+                  "size": 1
+                }
+              ]
+            },
+            {
+              "name": "prothèse",
+              "children": [
+                {
+                  "name": "Régulateur d'empathie",
+                  "size": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Attributs tertiaires",
+          "children": [
+            {
+              "name": "Capacité",
+              "children": [
+                {
+                  "name": "Niveau 1 ",
+                  "children": [
+                    {
+                      "name": "Aucun",
+                      "size": 1
+                    }
+                  ]
+                },
+                {
+                  "name": "Niveau 2",
+                  "children": [
+                    {
+                      "name": "Aucun",
+                      "size": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Familier ",
+              "children": [
+                {
+                  "name": "Aucun",
+                  "size": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rosa Sisneros",
+      "children": [
+        {
+          "name": "Attributs primaires",
+          "children": [
+            {
+              "name": "Force : 11",
+              "size": 11
+            },
+            {
+              "name": "Dextérité : 11",
+              "size": 11
+            },
+            {
+              "name": "Concentration: 12",
+              "size": 11
+            },
+            {
+              "name": "Intelligence: 13",
+              "size": 13
+            },
+            {
+              "name": "Perception: 12",
+              "size": 12
+            },
+            {
+              "name": "Charisme: 11",
+              "size": 11
+            },
+            {
+              "name": "Vie : 7",
+              "size": 7
+            }
+          ]
+        },
+        {
+          "name": "Attributs secondaires",
+          "children": [
+            {
+              "name": "Argent : 35",
+              "size": 35
+            },
+            {
+              "name": "Mana/Psyché : 7",
+              "size": 7
+            },
+            {
+              "name": "Point de chances : 1",
+              "size": 1
+            },
+            {
+              "name": "Point d'endurances : 5",
+              "size": 5
+            }
+          ]
+        },
+        {
+          "name": "Inventaire et Prothèse",
+          "children": [
+            {
+              "name": "Armes",
+              "children": [
+                {
+                  "name": "M-10AF lexington (pistolet) ",
+                  "size": 1
+                }
+              ]
+            },
+            {
+              "name": "Armure",
+              "children": [
+                {
+                  "name": "Veste",
+                  "size": 1
+                }
+              ]
+            },
+            {
+              "name": "prothèse",
+              "children": [
+                {
+                  "name": "yeux",
+                  "size": 1
+                },
+                {
+                  "name": "bras droit",
+                  "size": 1
+                },
+                {
+                  "name": "machoire",
+                  "size": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Attributs tertiaires",
+          "children": [
+            {
+              "name": "Capacité",
+              "children": [
+                {
+                  "name": "Niveau 1 ",
+                  "children": [
+                    {
+                      "name": "Aucun",
+                      "size": 1
+                    }
+                  ]
+                },
+                {
+                  "name": "Niveau 2",
+                  "children": [
+                    {
+                      "name": "Aucun",
+                      "size": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Familier ",
+              "children": [
+                {
+                  "name": "Aucun",
+                  "size": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sinjai JAA",
+      "children": [
+        {
+          "name": "Attributs primaires",
+          "children": [
+            {
+              "name": "Force : 11",
+              "size": 11
+            },
+            {
+              "name": "Dextérité: 15",
+              "size": 15
+            },
+            {
+              "name": "Concentration : 11",
+              "size": 11
+            },
+            {
+              "name": "Intelligence : 11",
+              "size": 11
+            },
+            {
+              "name": "Perception : 11",
+              "size": 11
+            },
+            {
+              "name": "Charisme: 11",
+              "size": 11
+            },
+            {
+              "name": "Vie: 7",
+              "size": 7
+            }
+          ]
+        },
+        {
+          "name": "Attributs secondaires",
+          "children": [
+            {
+              "name": "Argent : 25",
+              "size": 25
+            },
+            {
+              "name": "Mana/Psyché : 7",
+              "size": 7
+            },
+            {
+              "name": "Point de chances : 1",
+              "size": 1
+            },
+            {
+              "name": "Point d'endurances : 5",
+              "size": 5
+            }
+          ]
+        },
+        {
+          "name": "Inventaire et Prothèse",
+          "children": [
+            {
+              "name": "Armes",
+              "children": [
+                {
+                  "name": "Fouet monofilament ",
+                  "size": 1
+                }
+              ]
+            },
+            {
+              "name": "Armure",
+              "children": [
+                {
+                  "name": "Veste",
+                  "size": 1
+                }
+              ]
+            },
+            {
+              "name": "prothèse",
+              "children": [
+                {
+                  "name": "Endosquelette orbital ",
+                  "size": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Attributs tertiaires",
+          "children": [
+            {
+              "name": "Capacité",
+              "children": [
+                {
+                  "name": "Niveau 1 ",
+                  "children": [
+                    {
+                      "name": "Aucun",
+                      "size": 1
+                    }
+                  ]
+                },
+                {
+                  "name": "Niveau 2",
+                  "children": [
+                    {
+                      "name": "Aucun",
+                      "size": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Familier ",
+              "children": [
+                {
+                  "name": "Aucun",
+                  "size": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
