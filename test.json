@@ -35,7 +35,7 @@
               { "name" :"Inventaire et Prothèse" , 
                             "children": [ 
                              {"name": "Glock G33 AV ", "size": 3938},
-                              {"name": "Régulateur d'empathie", "size": 3812},
+                              {"name": "Régulateur d'empathie", "size": 3812}
                             
                        ]}   ]}]}
 
