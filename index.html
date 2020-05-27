@@ -2,7 +2,7 @@
     <style>
         body {
             font-family: Fantasy , Arial;
-            font-size: 14px; 
+            font-size: 16px; 
             background-image: url("https://images5.alphacoders.com/102/1022371.jpg"); 
             color:#fff; 
                        
@@ -132,7 +132,8 @@
                 .attr('startOffset','50%')
                 .attr('xlink:href', (_, i) => `#hiddenArc${i}` )
                 .text(d => d.data.name)
-                .style('fill', 'none')
+                .style('fill', 'none') 
+                .style('color','#ffffff')
                 .style('stroke', '#2ce855')
                 .style('stroke-width', 1) 
                 .style('stroke-linejoin', 'round');
