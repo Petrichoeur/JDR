@@ -1,0 +1,121 @@
+{
+    "name": "Iris Decision Tree",
+    "children": [
+        {
+            "name": "petal length <= 2.45",
+            "children": [
+                {
+                    "name": "setosa",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "petal length > 2.45",
+            "children": [
+                {
+                    "name": "petal width <= 1.75",
+                    "children": [
+                        {
+                            "name": "petal length <= 4.85",
+                            "children": [
+                                {
+                                    "name": "sepal width <= 3.1",
+                                    "children": [
+                                        {
+                                            "name": "virginica",
+                                            "size": 1
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "sepal width > 3.1",
+                                    "children": [
+                                        {
+                                            "name": "versicolor",
+                                            "size": 1
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "petal length > 4.85 ",
+                            "children": [
+                                {
+                                    "name": "Virginica",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "petal width > 1.75",
+                    "children": [
+                        {
+                            "name": "petal length <= 4.95",
+                            "children": [
+                                {
+                                    "name": "petal width <= 1.65",
+                                    "children": [
+                                        {
+                                            "name": "versicolor",
+                                            "size": 1
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "petal width > 1.65",
+                                    "children": [
+                                        {
+                                            "name": "virginica",
+                                            "size": 1
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "petal length > 4.95",
+                            "children": [
+                                {
+                                    "name": "petal width <= 1.55",
+                                    "children": [
+                                        {
+                                            "name": "virginica",
+                                            "size": 1
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "petal width > 1.55",
+                                    "children": [
+                                        {
+                                            "name": "petal length <= 5.45",
+                                            "children": [
+                                                {
+                                                    "name": "versicolor",
+                                                    "size": 1
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "petal length > 5.45 ",
+                                            "children": [
+                                                {
+                                                    "name": "virginica",
+                                                    "size": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
