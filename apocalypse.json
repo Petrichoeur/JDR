@@ -1,0 +1,266 @@
+{
+    "name": "testtazet",
+    "children": [
+        {
+            "name": "Attributs et compétences",
+            "children": [
+                {
+                    "name": "Force: 20",
+                    "children": [
+                        {
+                            "name": "CàC: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Sprint: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Natation: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Escalade: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Arme à feu à deux mains: 10",
+                            "size": 1
+                        },
+                        {
+                            "name": "Arme blanche lourde: 10",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Agilité: 20",
+                    "children": [
+                        {
+                            "name": "Esquive: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Saut: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "discrétion: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "contorsion: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Acrobatie: 0",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Dextérité: 20",
+                    "children": [
+                        {
+                            "name": "Arme Blanche : 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Arme à feu à une main: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Larcin: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Crochetage: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Arme de jet: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "manipulation: 0",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Intelligence:20",
+                    "children": [
+                        {
+                            "name": "Culture : 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Erudition : 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Etiquette: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Analyse: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Informatique: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Sciences fondamentales: 0",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Intuition: 20",
+                    "children": [
+                        {
+                            "name": "Perception : 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Detection: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Empathie: 0",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Charisme: 20",
+                    "children": [
+                        {
+                            "name": "Intimidation: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Seduction: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Manipulation (mentale): 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Escalade: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Arme de feu Lourde: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Arme blanche lourde: 0",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Foi: 20",
+                    "children": [
+                        {
+                            "name": "Prière: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Culte: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Deus ex Machina: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Luciferum ex Machina: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Force mentale: 0",
+                            "size": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Inventaire",
+            "children": [
+                {
+                    "name": "Rien",
+                    "size": "1"
+                },
+                {
+                    "name": "Rien",
+                    "size": "1"
+                },
+                {
+                    "name": "Rien",
+                    "size": "1"
+                }
+            ]
+        },
+        {
+            "name": "Compétences et personnalité",
+            "children": [
+                {
+                    "name": "Compétences",
+                    "children": [
+                        {
+                            "name": "1- : Rien",
+                            "size": 1
+                        },
+                        {
+                            "name": "2- : Rien",
+                            "size": 1
+                        },
+                        {
+                            "name": "3- : Rien",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Avantages",
+                    "children": [
+                        {
+                            "name": "1- : Rien",
+                            "size": 1
+                        },
+                        {
+                            "name": "2- : Rien",
+                            "size": 1
+                        },
+                        {
+                            "name": "3- : Rien",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Desavantages",
+                    "children": [
+                        {
+                            "name": "1- : Rien",
+                            "size": 1
+                        },
+                        {
+                            "name": "2- : Rien",
+                            "size": 1
+                        },
+                        {
+                            "name": "3- : Rien",
+                            "size": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
