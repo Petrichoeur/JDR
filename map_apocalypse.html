@@ -1,0 +1,30 @@
+<head>
+    <style>
+        body {
+            font-family: Fantasy , Arial;
+            font-size: 16px; 
+            background-image: url("https://previews.123rf.com/images/lisaalisaill/lisaalisaill1604/lisaalisaill160400051/56964536-technology-background-steampunk-background-with-dirty-and-scratches-cold-and-brown-colors.jpg"); 
+            color:#fff; 
+                       
+        }
+    </style>
+      <h1> -- MAP APOCALPYSE 11:3 --</h1>
+      <script> 
+
+function changeImage(elem)
+{
+var img = document.getElementById("image");
+img.src="img/"+elem;
+return false;
+}
+
+</script>
+
+</head>
+<body>
+<button id="clickme" onclick="changeImage('town.jpg');">Click to change image!</button>
+<img id="image" src="images/test" />
+<br><br><br>
+<button id="clickme" onclick="changeImage();">Click to change image!</button>
+
+</body>
