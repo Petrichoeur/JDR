@@ -92,7 +92,7 @@
             .attr('viewBox', `${-width / 2} ${-height / 2} ${width} ${height}`)
             .on('click', () => focusOn()); // Reset zoom on canvas click
 
-        d3.json('cyber_scale.json', (error, root) => {
+        d3.json('iris.json', (error, root) => {
             if (error) throw error;
 
             root = d3.hierarchy(root);
@@ -175,5 +175,6 @@
                     })
             }
         }
-    </script>
+    </script> 
+    <p> template for sunburst in d3 : <a href='https://observablehq.com/@d3/d3-zoomable-sunburst'>Sunburst</a></p>
 </body>
