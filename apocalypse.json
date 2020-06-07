@@ -1,8 +1,269 @@
 {"name":"Apocalypse 11:3 chapter 1", 
  "children": [
  
- 
- 
+ {
+    "name": "Justin(e)Warrior(e)",
+    "children": [
+        {
+            "name": "Attributs et compétences",
+            "children": [
+                {
+                    "name": "Force: 20",
+                    "children": [
+                        {
+                            "name": "CàC: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Sprint: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Natation: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Escalade: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Arme à feu à deux mains: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Arme blanche lourde: 0",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Agilité: 20",
+                    "children": [
+                        {
+                            "name": "Esquive: 20",
+                            "size": 1
+                        },
+                        {
+                            "name": "Saut: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "discrétion: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "contorsion: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Acrobatie: 0",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Dextérité: 40",
+                    "children": [
+                        {
+                            "name": "Arme Blanche : 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Arme à feu à une main: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Larcin: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Crochetage: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Arme de jet: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "manipulation: 0",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Intelligence:50",
+                    "children": [
+                        {
+                            "name": "Culture : 10",
+                            "size": 1
+                        },
+                        {
+                            "name": "Erudition : 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Etiquette: 10",
+                            "size": 1
+                        },
+                        {
+                            "name": "Analyse: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Informatique: 10",
+                            "size": 1
+                        },
+                        {
+                            "name": "Sciences fondamentales: 0",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Intuition: 60",
+                    "children": [
+                        {
+                            "name": "Perception : 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Detection: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Empathie: 0",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Charisme: 20",
+                    "children": [
+                        {
+                            "name": "Intimidation: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Seduction: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Manipulation (mentale): 30",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Foi: 30",
+                    "children": [
+                        {
+                            "name": "Prière: 20",
+                            "size": 1
+                        },
+                        {
+                            "name": "Culte: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Deus ex Machina: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Luciferum ex Machina: 0",
+                            "size": 1
+                        },
+                        {
+                            "name": "Force mentale: 0",
+                            "size": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Inventaire",
+            "children": [
+                {
+                    "name": "Trophée youtubeur",
+                    "size": "1"
+                },
+                {
+                    "name": "Bombe de peinture cheveux",
+                    "size": "1"
+                },
+                {
+                    "name": "Sifflet anti-agression",
+                    "size": "1"
+                }
+            ]
+        },
+        {
+            "name": "Compétences et personnalité",
+            "children": [
+                {
+                    "name": "Compétences",
+                    "children": [
+                        {
+                            "name": "1- : Placement de produits",
+                            "size": 1
+                        },
+                        {
+                            "name": "2- : Sorcier d'internet",
+                            "size": 1
+                        },
+                        {
+                            "name": "3- : Non binaire ",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Avantages",
+                    "children": [
+                        {
+                            "name": "1- : Code promo nord VPN",
+                            "size": 1
+                        },
+                        {
+                            "name": "2- : Opinion changer",
+                            "size": 1
+                        },
+                        {
+                            "name": "3- : Fragile qui suscite la pitié",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Desavantages",
+                    "children": [
+                        {
+                            "name": "1- : Moche comme un cul",
+                            "size": 1
+                        },
+                        {
+                            "name": "2- : casier judiciaire type 1",
+                            "size": 1
+                        },
+                        {
+                            "name": "3- : Problème de peau",
+                            "size": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
+  
+  
+  
+  
+  
+  
+  
+  
+ ,
  {
     "name": "lexara_barrueta",
     "children": [
@@ -406,18 +667,6 @@
                         },
                         {
                             "name": "Manipulation (mentale): 20",
-                            "size": 1
-                        },
-                        {
-                            "name": "Escalade: 0",
-                            "size": 1
-                        },
-                        {
-                            "name": "Arme de feu Lourde: 0",
-                            "size": 1
-                        },
-                        {
-                            "name": "Arme blanche lourde: 0",
                             "size": 1
                         }
                     ]
