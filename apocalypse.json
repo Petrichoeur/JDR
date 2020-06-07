@@ -186,15 +186,15 @@
             "name": "Inventaire",
             "children": [
                 {
-                    "name": "Rien",
+                    "name": "Pioche",
                     "size": "1"
                 },
                 {
-                    "name": "Rien",
+                    "name": "Flasque de rouge ",
                     "size": "1"
                 },
                 {
-                    "name": "Rien",
+                    "name": "tabac et pipe ",
                     "size": "1"
                 }
             ]
@@ -206,15 +206,15 @@
                     "name": "Compétences",
                     "children": [
                         {
-                            "name": "1- : Rien",
+                            "name": "1- : Lancer de hâche",
                             "size": 1
                         },
                         {
-                            "name": "2- : Rien",
+                            "name": "2- : vision somnambule",
                             "size": 1
                         },
                         {
-                            "name": "3- : Rien",
+                            "name": "3- : Pistage animal",
                             "size": 1
                         }
                     ]
